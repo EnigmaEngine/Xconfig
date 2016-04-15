@@ -1,0 +1,8 @@
+
+xmonad.hs:7:20:
+    Not in scope: ‘manageDocks’
+    Perhaps you meant ‘manageHook’ (imported from XMonad)
+
+xmonad.hs:8:20: Not in scope: ‘avoidStruts’
+
+xmonad.hs:9:35: Not in scope: ‘docksEventHook’
